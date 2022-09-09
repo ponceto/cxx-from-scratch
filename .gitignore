@@ -1,0 +1,14 @@
+*.a
+*.la
+*.o
+*.lo
+*.Plo
+*.log
+*.trs
+*.bin
+# Makefile
+# Makefile.in
+# autom4te.cache/
+# .deps/
+# .libs/
+# .dirstamp
